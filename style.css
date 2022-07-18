@@ -155,3 +155,30 @@ a.link {
     padding-bottom: 150px;
     margin: 0;
 }
+
+.sub {
+    background-color: #3882f6;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 12px;
+}
+
+.footer {
+    background-color: #1f2937;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    margin: 0%;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright {
+    color: #e5e7eb;
+    margin-top: 25px;
+}
